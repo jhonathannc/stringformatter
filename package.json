@@ -1,6 +1,6 @@
 {
-  "name": "strformatter",
-  "version": "1.0.0",
+  "name": "@jhonathannc/strformatter",
+  "version": "0.0.2",
   "description": "string formatter for capitalize sentences",
   "main": "index.js",
   "scripts": {
