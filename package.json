@@ -1,0 +1,19 @@
+{
+  "name": "strformatter",
+  "version": "1.0.0",
+  "description": "string formatter for capitalize sentences",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "text-formatter",
+    "string",
+    "formatter",
+    "string-formatter",
+    "sentence-formatter",
+    "sentence"
+  ],
+  "author": "Jhonathan Candeu",
+  "license": "MIT"
+}
