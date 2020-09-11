@@ -1,4 +1,4 @@
-## 📋 stringformatter
+#### stringformatter
 npm package for format senteces
 
 ## 📋 Usage
@@ -28,4 +28,4 @@ const strformatter = require('@jhonathannc/strformatter')
 str.formatStr(str).formattedStr
 ```
 
-Like this package? Give a start. Regards.
+Like this package? Give a star. Regards.
