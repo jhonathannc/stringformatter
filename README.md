@@ -28,4 +28,4 @@ const strformatter = require('@jhonathannc/strformatter')
 str.formatStr(str).formattedStr
 ```
 
-Like this package? Give a star. Regards.
+Like this package? [Give a star](https://github.com/jhonathannc/stringformatter). Regards.
