@@ -1,5 +1,5 @@
 #### stringformatter
-npm package for format senteces
+npm package for format sentences
 
 ## 📋 Usage
 ```bash
@@ -16,7 +16,7 @@ Thats all!
 ## ⌨ How to use
 
 ```bash
-Very simples. Assumig you already havt the nodejs installed, do so: 
+Simple. Assumig you already have the nodejs installed, so: 
 
 # Installing package
 npm i @jhonathannc/strformatter
@@ -24,8 +24,11 @@ npm i @jhonathannc/strformatter
 # Import the package in your js file:
 const strformatter = require('@jhonathannc/strformatter')
 
+# My string.
+let str = 'My uNfoRmated. seNTeNe coMINg oF. my OWN aPi.';
+
 # Calling the format method and getting the formatted string
-str.formatStr(str).formattedStr
+strformatter.formatStr(str).formattedStr
 ```
 
 Like this package? [Give a star](https://github.com/jhonathannc/stringformatter). Regards.
